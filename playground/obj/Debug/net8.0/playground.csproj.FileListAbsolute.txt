@@ -1,0 +1,17 @@
+c:\Users\ADMIN\Desktop\playground\playground\bin\Debug\net8.0\playground.exe
+c:\Users\ADMIN\Desktop\playground\playground\bin\Debug\net8.0\playground.deps.json
+c:\Users\ADMIN\Desktop\playground\playground\bin\Debug\net8.0\playground.runtimeconfig.json
+c:\Users\ADMIN\Desktop\playground\playground\bin\Debug\net8.0\playground.dll
+c:\Users\ADMIN\Desktop\playground\playground\bin\Debug\net8.0\playground.pdb
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.AssemblyInfoInputs.cache
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.AssemblyInfo.cs
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.csproj.CoreCompileInputs.cache
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.dll
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\refint\playground.dll
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.pdb
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.genruntimeconfig.cache
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\ref\playground.dll
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.csproj.AssemblyReference.cache
+c:\Users\ADMIN\Desktop\playground\playground\bin\Debug\net8.0\nunit.framework.dll
+c:\Users\ADMIN\Desktop\playground\playground\obj\Debug\net8.0\playground.csproj.CopyComplete
